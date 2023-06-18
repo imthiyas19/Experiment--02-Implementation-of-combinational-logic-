@@ -103,7 +103,7 @@ endmodule
 
 ## TRUTH TABLE:
 
-![TRU 1](https://github.com/imthiyas19/Experiment--02-Implementation-of-combinational-logic-/assets/120353416/a49b8a62-6a18-4eec-b3b2-eef2d2ca254f)
+![TB1](https://github.com/imthiyas19/Experiment--02-Implementation-of-combinational-logic-/assets/120353416/9de72628-eaf6-432a-9706-ce17a5d52930)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
